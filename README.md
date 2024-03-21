@@ -18,7 +18,7 @@
 
  
 
-  - [Qualys Cybersecurity Asset Management](https://github.com/Michal-Slepoy/Michal-Slepoy/blob/main/Qualys%20CSAM%20certification.pdf)) 
+  - [Qualys Cybersecurity Asset Management](https://github.com/Michal-Slepoy/Michal-Slepoy/blob/main/Qualys%20CSAM%20certification.pdf) 
 
   - [Security+](https://www.credly.com/earner/earned/badge/fc1776cc-e449-4175-812e-9c8783c16e07) 
 
