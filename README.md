@@ -33,4 +33,4 @@
 
 [twitter]: https://twitter.com/ 
 
-[linkedin]: https://linkedin.com/in/ 
+[linkedin]: https://linkedin.com/in/michal-slepoy-deitsch 
